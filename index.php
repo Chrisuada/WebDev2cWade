@@ -108,7 +108,7 @@
 	 </div>
 	 </div>
 	    <div class="row"><p><br><h1>Willow & Wild</h1><h3>
-			Handmade - Vintage Inspired - Bridal Headpieces, Hair Accessories & Fascinators<br>
+			Handmade - Vintage Inspired - Bridal Headpieces - Hair Accessories & Fascinators<br>
 			<br>By Designer Bonzie</h3></p>
 		</div><hr>
 	<div class="row">
